@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Java core lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Java core lib/miglayout-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Java core lib/mongodb-driver-sync-4.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Java core lib/bson-4.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Java core lib/LGoodDatePicker-11.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Java core lib/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Java core lib/commons-lang3-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Java core lib/mongodb-driver-core-4.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Java core lib/RSFoto_v1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Java core lib/javax.mail-1.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

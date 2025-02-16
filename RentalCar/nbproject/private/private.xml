@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/ex/DatabaseException.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/saveinformation/SaveCarTypeInfo.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/model/newentity/NewOrUpdateCarType.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/model/newentity/NewOrUpdatePenaltiesPolicy.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/dao/OptionDAO.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/display/form/manager/FormReservation.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/dao/ManufacturerDAO.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/dao/TenantDAO.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/display/form/manager/FormCarType.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/dao/ReservationDAO.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/model/entity/PenaltiesPolicy.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/saveinformation/Authentication.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/saveinformation/SaveCarInfo.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/dao/UserDAO.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/saveinformation/SaveReservationInfo.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/model/entity/Clients.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/model/newentity/NewOrUpdateReservations.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/display/addnewframe/admin/CarTypeAddFrame.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/dao/CarTypeDAO.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/dao/PenaltiesPolicyDAO.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/dao/CarDAO.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/dao/ClientDAO.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/component/Menu.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/utils/Validation.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/saveinformation/SecurityContext.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/display/editframe/manager/ReservationEditFrame.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/saveinformation/SaveManufacturerInfo.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/model/newentity/NewOrUpdateClients.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/component/Header.java</file>
+            <file>file:/C:/Users/admin/Downloads/RentalCar/src/component/Card.java</file>
+        </group>
+    </open-files>
+</project-private>
